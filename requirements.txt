@@ -1,0 +1,33 @@
+# Core dependencies
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# NLP and Text Processing
+nltk>=3.8.0
+spacy>=3.6.0
+langchain>=0.1.0
+langchain-community>=0.0.10
+tiktoken>=0.5.0
+
+# Embeddings and Vector Databases
+sentence-transformers>=2.2.0
+chromadb>=0.4.0
+faiss-cpu>=1.7.0
+pypdf>=3.17.0
+
+# LLM and AI
+huggingface-hub>=0.20.0
+transformers>=4.35.0
+torch>=2.1.0
+
+# Web Framework (for Task 4)
+gradio>=4.0.0
+streamlit>=1.28.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+scikit-learn>=1.3.0
+jupyter>=1.0.0
