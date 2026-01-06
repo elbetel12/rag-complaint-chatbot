@@ -36,6 +36,7 @@ env/
 data/raw/
 data/processed/
 vector_store/
+.csv
 
 # Logs
 *.log
