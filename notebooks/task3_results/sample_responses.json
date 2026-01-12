@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What are common credit card complaints?",
+    "answer": "Based on customer complaints:\n\u2022 Products mentioned: Credit Card\n\u2022 Companies involved: Bank A, Bank C\n\u2022 Number of relevant complaints found: 2",
+    "chunks_retrieved": 2
+  },
+  {
+    "question": "Why are loan applications denied?",
+    "answer": "Based on 5 customer complaints, the main reasons mentioned are: various issues mentioned in the complaints.",
+    "chunks_retrieved": 5
+  },
+  {
+    "question": "What savings account issues are reported?",
+    "answer": "I found 1 relevant customer complaints. They concern Savings Account products. ",
+    "chunks_retrieved": 1
+  }
+]
