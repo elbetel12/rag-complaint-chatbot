@@ -1,0 +1,21 @@
+{
+  "system": {
+    "vector_store": "FAISS with pre-built embeddings",
+    "embedding_model": "all-MiniLM-L6-v2",
+    "retrieval_method": "Semantic search with product filtering",
+    "llm_approach": "Hybrid (simple template + Flan-T5 Small)",
+    "chunk_size": "500 characters",
+    "chunk_overlap": "50 characters"
+  },
+  "performance": {
+    "average_retrieval_time": "0.1-0.2s",
+    "average_generation_time": "0.05-0.1s",
+    "average_total_time": "0.15-0.3s",
+    "average_chunks_retrieved": "2-5 per query"
+  },
+  "evaluation": {
+    "average_score": 3.0,
+    "test_questions": 5,
+    "date": "2026-01-12 14:52:41"
+  }
+}
